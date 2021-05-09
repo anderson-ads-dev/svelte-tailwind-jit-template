@@ -1,12 +1,15 @@
+*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+
+---
 
 # svelte app
 
-This is a project template for [Svelte](https://svelte.dev) apps using Tailwind with JIT compiler ennabled. It lives at https://github.com/anderson-ads-dev/svelte-tailwind-jit-template
+This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
-To create a new project based on this template using [degit](https://github.com/anderson-ads-dev/svelte-tailwind-jit-template):
+To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit anderson-ads-dev/svelte-tailwind-jit-template svelte-app
+npx degit sveltejs/template svelte-app
 cd svelte-app
 ```
 
