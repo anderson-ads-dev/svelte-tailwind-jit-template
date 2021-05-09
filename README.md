@@ -1,5 +1,5 @@
 
-# svelte app
+# svelte app with Tailwind in JIT mode
 
 This is a project template for [Svelte](https://svelte.dev) apps using Tailwind with JIT compiler ennabled. It lives at https://github.com/anderson-ads-dev/svelte-tailwind-jit-template
 
